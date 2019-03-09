@@ -1,0 +1,2 @@
+CaseID	title	URL	data	Expect	Result
+login_001	µÇÂ¼·­Ò³	https://www.lagou.com/jobs/positionAjax.json?city=%E6%9D%AD%E5%B7%9E&needAddtionalResult=false	login_001		
